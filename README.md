@@ -1,12 +1,10 @@
 # Relevant-Projects
-Statistics and Data Analytics Projects Initiated by Victor Cardeno
 
+Using Difference in Difference Methodology to Isolate Impact of Mayoral Party on Local Economic Outcomes
 
-Project 1: Using ANOVA and Logistic Regression to Analyze U.S. Air Traffic Data
+FinalPaper.docx: Final report detailing project aims, data collection and manipulation, and analysis conclusions
 
-Project 2: 25-page Crisis Paper detailing Venezuelan economic plight
-
-Project 3: Considered Impact of Mayor’s Party on Local Economic Outcomes using DiD
+Project.do: Stata script to conduct data manipulation and relevent regressions
 
 
 

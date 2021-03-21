@@ -1,14 +1,10 @@
-# Relevant-Projects
-Statistics and Data Analytics Projects Initiated by Victor Cardeno
+Trialing Neural Networks to Predict Tennis Matches
 
+Attempting to fit a neural network to a dataset of statistics from ATP tennis matches in an attempt to predict match outcomes
 
-Project 1: Using ANOVA and Logistic Regression to Analyze U.S. Air Traffic Data
+Code was adapted from script provided by instructor, but code was lost when Notre Dame student account was deleted
 
-Project 2: 25-page Crisis Paper detailing Venezuelan economic plight
-
-Project 3: Considered Impact of Mayor’s Party on Local Economic Outcomes using DiD
-
-Project 4: Using Random Forests and Logistic Regression to Measure Effect of Positional Performance in ACC
+ANNProjectFinalReport.docx: Final report detailing project aims, methodology, analysis, and conclusions
 
 
 

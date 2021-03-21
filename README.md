@@ -1,6 +1,8 @@
 # Relevant-Projects
 Statistics and Data Analytics Projects Initiated by Victor Cardeno
 
+Note: I am a GitHub beginner and just wanted to use this to display some of the individual projects I've completed over the past few years. I have completed many more assignments/projects as part of a team, but these are the projects I had full ownership over from beginning to end. 
+
 
 Project 1: Using ANOVA and Logistic Regression to Analyze U.S. Air Traffic Data - Fall 2020
 

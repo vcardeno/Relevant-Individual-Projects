@@ -6,6 +6,8 @@ Code was adapted from script provided by instructor, but code was lost when Notr
 
 ANNProjectFinalReport.docx: Final report detailing project aims, methodology, analysis, and conclusions
 
+ProjectScript.R: Script preparing data for analysis
+
 
 
 
